@@ -18,3 +18,9 @@ nano .gitignore
 
 
 --Este texto se agregó en la rama newFeatures
+
+
+
+
+
+--Se agrega una nueva feature en la rama principal
