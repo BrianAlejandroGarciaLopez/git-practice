@@ -1,0 +1,13 @@
+Este es un ejercicio de Git.
+
+Se supone que se está escribiendo el guión de Avengers End Game.
+
+Este archivo se subirá a GitHub.
+
+-- Para crear el archivo .gitignore desde comando:
+
+touch .gitignore
+
+-- Para modificar el archivo .gitignore desde comando:
+
+nano .gitignore
