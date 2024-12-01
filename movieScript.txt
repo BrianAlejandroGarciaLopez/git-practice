@@ -11,3 +11,5 @@ touch .gitignore
 -- Para modificar el archivo .gitignore desde comando:
 
 nano .gitignore
+
+--Esta es una línea agregada en un repo local 2 (simula otra persona trabajando).
