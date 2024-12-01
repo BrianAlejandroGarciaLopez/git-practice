@@ -13,3 +13,8 @@ touch .gitignore
 nano .gitignore
 
 --Esta es una línea agregada en un repo local 2 (simula otra persona trabajando).
+
+
+
+
+--Este texto se agregó en la rama newFeatures
